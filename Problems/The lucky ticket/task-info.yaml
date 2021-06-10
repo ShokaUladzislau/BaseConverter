@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9031#comment
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Thu, 10 Jun 2021 20:23:26 UTC
+record: -1
